@@ -97,36 +97,21 @@ body {
 	padding: 10px 20px;
 }
 
-.portfolio a:hover,
-.portfolio a:focus,
-.portfolio a:active {
+a.portfolio:hover,
+a.portfolio:focus,
+a.portfolio:active {
 	background-color: #e74c3c;
 }
 
-.facebook a:hover,
-.facebook a:focus,
-.facebook a:active {
+a.facebook:hover,
+a.facebook:focus,
+a.facebook:active {
 	background-color: #3b5998;
 }
 	
-.twitter a:hover,
-.twitter a:focus,
-.twitter a:active {
+a.twitter:hover,
+a.twitter:focus,
+a.twitter:active {
 	background-color: #1da1f2;
 }
 
-
-
-/*.source-sans-3-<uniquifier> {
-	font-family: "Source Sans 3", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: <weight>;
-	font-style: normal;
-  }
-
-  .montserrat-<uniquifier> {
-	font-family: "Montserrat", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: <weight>;
-	font-style: normal;
-  } */
